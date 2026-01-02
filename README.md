@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/https://github.com/mariomacielrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/mariomacielrj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mario-maciel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-maciel/" height="30" width="40" /></a>
+<a href="https://github.com/mariomacielrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/mariomacielrj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mario-maciel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mario-maciel/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">I'm trying to learn what I need to develop my tool using these languages and tools:</h3>
