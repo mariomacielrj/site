@@ -2,8 +2,6 @@
 
 ### an IT tech who becomes an AI enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/mariomacielrj" alt="https://github.com/mariomacielrj" /></a> </p>
-
 - 🔭 I'm currently working on **develop products like SaaS and web based solutions for life science & healthcare companies**
 
 - 🌱 I'm currently learning **Typescript and React**
