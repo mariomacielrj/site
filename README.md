@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I have lucid dreams, but I really don't like it very much.**
 
-- 👨‍💻 All of my projects are (not) available at **[https://mariomacielrj.github.io/site/](https://mariomacielrj.github.io/site/)**
+- 👨‍💻 All of my projects are (not) available at **[https://mariomacielrj.github.io/site/](https://mariomacielrj.github.io/portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
